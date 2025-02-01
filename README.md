@@ -59,6 +59,9 @@ The increasing rate of car accidents has led to insurance companies facing signi
 1.  Upload a car image to the system.
 2.  The model predicts whether the car is damaged or not, and can be extended to classify the damage level as minor, moderate or severe.
 
+   ![Screenshot 2025-01-31 225500](https://github.com/user-attachments/assets/f94287e6-81f6-4b7d-9db7-959db16ea58b)
+
+
 ## Technologies Used
 
 *   **Programming Language:** Python.
